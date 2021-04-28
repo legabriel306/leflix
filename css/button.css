@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+    background-color: #7c5e99;
+    border: none;
+    width: 420px;
+    height: 55px;
+    font-family: inherit;
+    color: #ffffff;
+    font-size: 20px;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 0px #000000;
+    transition: transform 200ms ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
