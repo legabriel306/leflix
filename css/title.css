@@ -1,8 +1,10 @@
 @charset "UTF-8";
 
 h1 {
-    color: #f25a70;
+    color: var(--color-first);
     text-shadow: 4px 4px 0px black;
     text-align: center;
     font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 40px;
 }

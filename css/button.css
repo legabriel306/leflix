@@ -5,12 +5,12 @@ button {
     margin-right: auto;
     margin-left: auto;
     border-radius: 5px;
-    background-color: #7c5e99;
+    background-color: var(--color-second);
     border: none;
     width: 420px;
     height: 55px;
     font-family: inherit;
-    color: #ffffff;
+    color: var(--color-third);
     font-size: 20px;
     cursor: pointer;
     box-sizing: border-box;
